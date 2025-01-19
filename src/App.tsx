@@ -7,6 +7,7 @@ import Crop from "./pages/Crop.tsx";
 import Staff from "./pages/Staff.tsx";
 import Log from "./pages/Log.tsx";
 import Vehicle from "./pages/Vehicle.tsx";
+import Equipment from "./pages/Equipment.tsx";
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
 
   return (
     <>
-        <Vehicle/>
+        <Equipment/>
     </>
   )
 }
