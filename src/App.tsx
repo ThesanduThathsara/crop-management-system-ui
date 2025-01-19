@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Login from "./pages/Login.tsx";
 import SignUp from "./pages/SignUp.tsx";
+import Field from "./pages/Field.tsx";
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
 
   return (
     <>
-        <SignUp/>
+        <Field/>
     </>
   )
 }
