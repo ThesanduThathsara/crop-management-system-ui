@@ -21,9 +21,9 @@ function App() {
                 <meta name="keywords" content="Green Shadow (Pvt) Ltd "/>
                 <meta name="author" content="Thesandu Thathsara"/>
                 <title>Crop Monitoring System </title>
-                <link rel="icon" type="image/x-icon" href="assets/green-shadow-high-resolution-logo-transparent.png"/>
             </Helmet>
-            <Equipment/>
+
+            <Login/>
         </>
     )
 }
